@@ -8,12 +8,12 @@ const PositionHeader = () => {
             <div className="flex items-center justify-center p-1 w-8 h-8 rounded items-center justify-center" style={{ background: "#2edc9a" }}>
                 <h1 className='text-xl font-bold'>B</h1>
             </div>
-            <div className="text-3xl font">AIUSDT</div>
+            <div className="text-3xl font-bold">AIUSDT</div>
         </div>
  
 
         <div className="text-xl text-gray-300" >
-            <span className='mx-1 p-1 rounded' style={{background:"#29323b"}}>Perp</span> 
+            <span className='mx-2 p-1 rounded' style={{background:"#29323b"}}>Perp</span> 
             <span className='p-1 rounded' style={{background:"#29323b"}}>Cross 20x</span>
         </div>
         <span className='text-3xl ml-1' >
