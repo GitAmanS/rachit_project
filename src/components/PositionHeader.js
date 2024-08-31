@@ -4,7 +4,7 @@ import { FaShareAlt } from "react-icons/fa";
 const PositionHeader = () => {
   return (
     <div className="flex flex-row items-center">
-        <div className='flex gap-6 items-center justify-center'>
+        <div className='flex gap-3 items-center justify-center'>
             <div className="flex items-center justify-center p-1 w-8 h-8 rounded items-center justify-center" style={{ background: "#2edc9a" }}>
                 <h1 className='text-xl font-bold'>B</h1>
             </div>
