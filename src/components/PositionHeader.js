@@ -8,7 +8,7 @@ const PositionHeader = () => {
             <div className="flex items-center justify-center p-1 w-8 h-8 rounded items-center justify-center" style={{ background: "#2edc9a" }}>
                 <h1 className='text-xl font-bold'>B</h1>
             </div>
-            <div className="text-3xl">AIUSDT Perpetual</div>
+            <div className="text-3xl font-bold">AIUSDT Perpetual</div>
         </div>
  
 
